@@ -1,0 +1,12 @@
+[
+{
+  "directory": "G:/Program Files/data_structure/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe  @CMakeFiles/DataStructure.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\DataStructure.dir\\main.c.obj -c \"G:\\Program Files\\data_structure\\main.c\"",
+  "file": "G:/Program Files/data_structure/main.c"
+},
+{
+  "directory": "G:/Program Files/data_structure/build/Session_1_Linear_List",
+  "command": "D:\\mingw64\\bin\\gcc.exe  @CMakeFiles/Session1LinearList.dir/includes_C.rsp -g -std=gnu11 -o CMakeFiles\\Session1LinearList.dir\\linear_list.c.obj -c \"G:\\Program Files\\data_structure\\Session_1_Linear_List\\linear_list.c\"",
+  "file": "G:/Program Files/data_structure/Session_1_Linear_List/linear_list.c"
+}
+]

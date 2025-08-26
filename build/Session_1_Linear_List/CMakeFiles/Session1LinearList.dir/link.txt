@@ -1,0 +1,2 @@
+D:\mingw64\bin\ar.exe qc libSession1LinearList.a CMakeFiles/Session1LinearList.dir/linear_list.c.obj
+D:\mingw64\bin\ranlib.exe libSession1LinearList.a

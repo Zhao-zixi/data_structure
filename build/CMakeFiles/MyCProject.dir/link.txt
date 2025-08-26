@@ -1,0 +1,3 @@
+D:\Python\Lib\site-packages\cmake\data\bin\cmake.exe -E rm -f CMakeFiles\MyCProject.dir/objects.a
+D:\mingw64\bin\ar.exe qc CMakeFiles\MyCProject.dir/objects.a @CMakeFiles\MyCProject.dir\objects1.rsp
+D:\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\MyCProject.dir/objects.a -Wl,--no-whole-archive -o bin\MyCProject.exe -Wl,--out-implib,libMyCProject.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\MyCProject.dir\linklibs.rsp
